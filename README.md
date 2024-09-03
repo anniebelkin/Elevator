@@ -1,2 +1,1 @@
-# Elevator
-GameDevelopHer homework 03
+# GameDevelopHer - Homework

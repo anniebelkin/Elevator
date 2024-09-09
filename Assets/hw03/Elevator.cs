@@ -25,6 +25,8 @@ public class Elevator : MonoBehaviour
 
         }
     }
+
+    //prefect
     // GoUp and GoDown  - first methods from assignment
     void GoUp(int floors)
     {
@@ -40,6 +42,7 @@ public class Elevator : MonoBehaviour
         }
         announceFloor();
     }
+    //perfect
     void GoDown(int floors)
     {
         while(floors > 0)
@@ -54,6 +57,8 @@ public class Elevator : MonoBehaviour
         }
         announceFloor();
     }
+
+    //perfect use of building blocks of methods
     // second method from assignment
     void GoToFloor(int input)
     {
